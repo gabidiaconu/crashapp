@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "158037525465",
+    "firebase_url": "https://crashinsuranceapp.firebaseio.com",
+    "project_id": "crashinsuranceapp",
+    "storage_bucket": "crashinsuranceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158037525465:android:0e3ac286b6ea15c0",
+        "android_client_info": {
+          "package_name": "com.example.user.crashinsuranceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158037525465-cqjefo771h534pi3j2rsrd0rb7mrs29e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDINjGwOoBvHKxj_YMCFU-lEbm7lfkjI9g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
