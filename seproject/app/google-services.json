@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "686287543973",
+    "firebase_url": "https://crashapp-e58a9.firebaseio.com",
+    "project_id": "crashapp-e58a9",
+    "storage_bucket": "crashapp-e58a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686287543973:android:8499ad0d47d91591",
+        "android_client_info": {
+          "package_name": "com.example.user.seproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686287543973-g9sjr166vu8c70ckq1aflgfopcglqj3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBklZGBGK77t_AtawPN9inC2RnZPaycvY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
